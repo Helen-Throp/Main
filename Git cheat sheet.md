@@ -5,8 +5,8 @@ New repo:
 4. git remote add -f upstream REPO URL
 
 To commit:
-1.Write file
-2.git status
+1. Write file
+2. git status
 3. git add FILE
 4. git commit -m "MESSAGE"
 5. git push origin main
